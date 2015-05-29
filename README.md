@@ -25,5 +25,5 @@ Solution to the Interview Cake problem, "Rectangular Love".
     'width': 10,
     'height': 4,
 
-    }
+ } 
   Your output rectangle should use this format as well.
